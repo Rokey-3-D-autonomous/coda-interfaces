@@ -1,2 +1,3 @@
 geometry_msgs/PoseStamped location
 ---
+bool accepted
