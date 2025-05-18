@@ -15,8 +15,8 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   # "msg/MyMessage.msg"
   # "srv/MyService.srv"
-  "srv/VehicleControl.srv"
   # "action/MyAction.action"
+  "action/VehicleControl.action"
   DEPENDENCIES geometry_msgs
 )
 
