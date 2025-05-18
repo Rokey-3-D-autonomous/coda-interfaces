@@ -1,4 +1,0 @@
-geometry_msgs/PoseStamped control_pose
-geometry_msgs/PoseStamped accident_pose
----
-bool accepted
